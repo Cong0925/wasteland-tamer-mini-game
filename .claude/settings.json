@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "claude-hud@claude-hud": true,
+    "document-skills@anthropic-agent-skills": true
+  }
+}
